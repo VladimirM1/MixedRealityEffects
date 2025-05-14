@@ -1,0 +1,19 @@
+{
+	"FileVersion": 3,
+	"Category": "",
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "OculusXR",
+			"Enabled": true,
+			"SupportedTargetPlatforms": [
+				"Win64",
+				"Android"
+			]
+		}
+	],
+	"TargetPlatforms": [
+		"Android"
+	],
+	"EngineAssociation": "5.5"
+}
